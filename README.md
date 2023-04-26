@@ -8,3 +8,5 @@ Contacto: numero de telefono : +549 381 5673059, email: agustina.carrizo2012@gma
 
 Estado del proyecto: Primer version del gestor de tareas.
 
+link deployado: https://proyecto-muni-carrizo-agustina.netlify.app/
+
